@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "643198055155",
+    "project_id": "loginapplication-ccb7a",
+    "storage_bucket": "loginapplication-ccb7a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:643198055155:android:b458d988ee932a566cfd86",
+        "android_client_info": {
+          "package_name": "com.example.loginapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8OBhYsHT0P3mhEXxYiqQbTt3aNnSSHJU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:643198055155:android:d82448519822b19b6cfd86",
+        "android_client_info": {
+          "package_name": "com.telecom.loginapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8OBhYsHT0P3mhEXxYiqQbTt3aNnSSHJU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
